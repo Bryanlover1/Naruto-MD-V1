@@ -4,7 +4,7 @@
   "logo": "https://github.com/Bryanlover1/Naruto-MD-V1/tree/main",
   "keywords": ["whatsappbot", "NARUTO-MD-V1", "NARUTO-MD-V1 bot", "NARUTO-MD-V1", "NARUTO-MD-V1MdWhatsaooBot", "NarutoWaBot","NARUTOMD","Naruto Md Whatsapp Bot","multi device"],
   "success_url": "https://telegra.ph/file/062ace096a270a9b42047.jpg",
-  "app_url": "https://telegra.ph/file/12aae016b733623691e82.mp4",
+  "app_url": "https://telegra.ph/file/062ace096a270a9b42047.jpg",
   "stack":"container",
   "env": {
     "OWNER_NAME": {
