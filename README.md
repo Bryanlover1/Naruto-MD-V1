@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD-V1/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://scan-Naruto-md-V1.onrender.com) Or [`PAIRING CODE`](https://Naruto-sessions.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://bryant-tech-bot-6caf875ac89b.herokuapp.com) Or [`PAIRING CODE`](https://bryant-tech-bot-6caf875ac89b.herokuapp.com)***
 
 *-Copy The Session ID to paste it in Heroku*
 
