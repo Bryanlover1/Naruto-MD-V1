@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.7",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
-  "app_url": "/qr/",
+  "name": "Naruto-Md-V1",
+  "description": "I am Naruto-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "logo": "https://github.com/Bryanlover1/Naruto-MD-V1/tree/main",
+  "keywords": ["whatsappbot", "NARUTO-MD-V1", "NARUTO-MD-V1 bot", "NARUTO-MD-V1", "NARUTO-MD-V1MdWhatsaooBot", "NarutoWaBot","NARUTOMD","Naruto Md Whatsapp Bot","multi device"],
+  "success_url": "https://telegra.ph/file/062ace096a270a9b42047.jpg",
+  "app_url": "https://telegra.ph/file/12aae016b733623691e82.mp4",
   "stack":"container",
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Bryan Tech",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "𝕹𝕬𝕽𝖀𝕿𝕺 𝖀𝖅𝖀𝕸𝕬𝕶𝕴"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
