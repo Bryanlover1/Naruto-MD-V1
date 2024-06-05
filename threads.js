@@ -1,6 +1,6 @@
 /*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+Naruto-MD-V1
+ Coded By Bryan Tech
 
 Modified File : threads.js
 Modified Date : 8/23/2023
