@@ -1,10 +1,10 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"NARUTO-MD-V1",
+  "description":"An easy and simple WhatsApp bot developed by  Bryan lover",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/franceking1/Flash-Md",
-  "succes_url":"/",
+  "logo":"https://telegra.ph/file/550d6bd8a0ce531f8f658.jpg",
+  "repository":"https://github.com/Bryanlover1/Naruto-MD-V1/tree/main",
+  "succes_url"https://telegra.ph/file/dd414565c93fc0179b83f.mp4"/",
   "stack":"container",
      "env":{
     "PREFIX":
@@ -41,14 +41,14 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"NARUTO-MD-V1",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/dd414565c93fc0179b83f.mp4",
       "required":false
 
      },
@@ -80,14 +80,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "Bryan Tech"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "233538733413"
   },
     "WARN_COUNT":
   {
