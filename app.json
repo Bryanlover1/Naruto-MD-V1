@@ -2,9 +2,9 @@
   "name":"NARUTO-MD-V1",
   "description":"An easy and simple WhatsApp bot developed by  Bryan lover",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dd414565c93fc0179b83f.mp4",
+  "logo":"https://telegra.ph/file/550d6bd8a0ce531f8f658.jpg",
   "repository":"https://github.com/Bryanlover1/Naruto-MD-V1/tree/main",
-  "succes_url":"https://telegra.ph/file/550d6bd8a0ce531f8f658.jpg",
+  "succes_url":"https://telegra.ph/file/dd414565c93fc0179b83f.mp4",
   "stack":"container",
      "env":{
     "PREFIX":
