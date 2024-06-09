@@ -14,7 +14,7 @@
 
 
 
-## 🔥 `Naruto This Repo`
+## `Naruto This Repo`
 If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciation,Support.
 
 
@@ -38,7 +38,7 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
 
 ❏FORK THE REPOSITORY 
   <a href="https://github.com/Bryanlover1/Naruto-MD-V1/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK Naruto-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <img src="https://img.shields.io/badge/FORK Naruto-yellow?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
@@ -48,7 +48,7 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
 (SCAN-QR)           
  
 <a href="https://star-md--qr-164809a7a3c7.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <img src="https://img.shields.io/badge/SESSION ID-yellow?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
@@ -60,11 +60,11 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
 
 ☉ If You don't have a account in Heroku. Create a account.
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ☉Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/Naruto-MD-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/Naruto-MD-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
