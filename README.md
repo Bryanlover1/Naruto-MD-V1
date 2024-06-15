@@ -42,12 +42,10 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
 </a>
 
 
-
-
 ❏GET SESSION ID 
 (SCAN-QR)           
  [`SCANING QR`](https://naruto-session-bbf1eb6efdfc.herokuapp.com/)
- OR [`PAIRING CODE`](https://flash-sessions.onrender.com/pair)***
+ OR [`PAIRING CODE`](https://naruto-session-bbf1eb6efdfc.herokuapp.com/)***
 
 
 ## 👻`Deployments`👻
