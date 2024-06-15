@@ -8,7 +8,7 @@
  >NARUTO-MD is a 🌟 versatile Multi-Device WhatsApp bot 🤖 recoded by the talented [BRYAN TECH](https://github.com/Bryanlover1) It offers a wide array of features, making it an advanced and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
 
 ## `Main Dev` 
-<a href="https://github.com/Bryanlover1"><img src="https://telegra.ph/file/062ace096a270a9b42047.jpg" width="250" height="250" alt="Bryan Tech"/></a>
+<a href="https://github.com/Bryanlover1"><img src="https://telegra.ph/file/60d7acb8c8ab3ddfb8ab6.jpg" width="250" height="250" alt="Bryan Tech"/></a>
 
   
 # </a>
