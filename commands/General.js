@@ -77,7 +77,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (d
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Hello 👋\n *Welcome to Naruto-Md!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _Bryan Tech_*\n*◇AGE: 14*\n*◇LOCATION: _Lost in space 🚀_*\n*◇BELIEVER: YESSSSSSS ✅*\n*◇FRIENDLY: YEEESSSS ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV Anime: _Naruto_*\n*◇INSTAGRAM: https://instagram.com/Bryan_lover*\n*◇\n\n*🍀KEEP USING NARUTO-MD🤍*\n\n\n_The following are my contacts_:\n:";
+    let message = "Hello 👋\n *Welcome to Naruto-Md!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _Bryan Tech_*\n*◇AGE: 14*\n*◇LOCATION: _Lost in space 🚀_*\n*◇BELIEVER: YESSSSSSS ✅*\n*◇FRIENDLY: YEEESSSS ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV Anime: _Naruto_*\n*◇INSTAGRAM: https://instagram.com/bryan_lover1*\n*◇\n\n*🍀KEEP USING NARUTO-MD🤍*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
