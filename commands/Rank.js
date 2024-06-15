@@ -154,7 +154,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking┗━━━┓
+┏━━━┛ NARUTO-MD Ranking┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -230,7 +230,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking ┗━━━┓
+┏━━━┛ NARUTO-MD Ranking ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
