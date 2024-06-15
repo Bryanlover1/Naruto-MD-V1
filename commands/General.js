@@ -19,7 +19,7 @@ const { france } = require("../framework/france");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-france({ nomCom: "owner", categorie: "General", reaction: "💞" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "owner", categorie: "General", reaction: "👑" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -36,7 +36,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "💞" }, async (dest,
    for ( const sudo of sudos) {
     if (sudo) { // Vérification plus stricte pour éliminer les valeurs vides ou indéfinies
       sudonumero = sudo.replace(/[^0-9]/g, '');
-      msg += `- 💼 @${sudonumero}\n`;
+      msg += `- ⭐ @${sudonumero}\n`;
     } else {return}
 
    }   const ownerjid = conf.NUMERO_OWNER.replace(/[^0-9]/g) + "@s.whatsapp.net";
@@ -77,7 +77,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (d
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Hello 👋\n *Welcome to Flash-Md!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _France King_*\n*◇AGE: 23*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV TEAM: _CHELSEA_*\n*◇INSTAGRAM: https://instagram.com/france.king1*\n*◇Twitter: https://twitter.com/france_king1*\n\n______________________________\n\n*💙KEEP USING FLASH-MD🤍*\n\n\n_The following are my contacts_:\n:";
+    let message = "Hello 👋\n *Welcome to Naruto-Md!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _Bryan Tech_*\n*◇AGE: 14*\n*◇LOCATION: _Lost in space 🚀_*\n*◇BELIEVER: YESSSSSSS ✅*\n*◇FRIENDLY: YEEESSSS ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV Anime: _Naruto_*\n*◇INSTAGRAM: https://instagram.com/Bryan_lover*\n*◇\n\n*🍀KEEP USING NARUTO-MD🤍*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -88,8 +88,8 @@ france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (d
         zk.sendMessage(dest, { video: { url: lien }, caption: message }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("⚡⚡ Menu erreur " + e);
+        repondre("⚡⚡ Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
@@ -98,8 +98,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption:message }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("🔥🔥 Menu erreur " + e);
+        repondre("🔥🔥 Menu erreur " + e);
     }
 } 
 else {
@@ -113,7 +113,7 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254757835036`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/233263176982`},{quoted :ms})
 
 })
  
