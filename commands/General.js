@@ -68,7 +68,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "👑" }, async (dest,
   }
 });
 
-france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
