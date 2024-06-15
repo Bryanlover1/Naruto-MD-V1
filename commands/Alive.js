@@ -65,7 +65,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *FLASH-MD by France King is alive*`
+ *NARUTO-MD IM ALIVE AND READY AND WAITING FOR THE NEXT COMMAND YOU WILL INPUT I CANT WAIT TO SHOW YOU WHAT I CAN DO*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
