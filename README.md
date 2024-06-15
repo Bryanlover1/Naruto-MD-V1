@@ -47,7 +47,7 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
 ❏GET SESSION ID 
 (SCAN-QR)           
  [`SCANING QR`](https://naruto-session-bbf1eb6efdfc.herokuapp.com/)
-<a href="https://naruto-session-bbf1eb6efdfc.herokuapp.com/" target="_blank">
+ OR [`PAIRING CODE`](https://flash-sessions.onrender.com/pair)***
   <img src="https://img.shields.io/badge/SESSION ID-yellow?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
