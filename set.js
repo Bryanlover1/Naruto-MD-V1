@@ -7,10 +7,10 @@ const databasePath = path.join(__dirname, './database.db');
 const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
-module.exports = { session: process.env.SESSION_ID || 'FLASH-MD-WA-BOT;;;=>',
+module.exports = { session: process.env.SESSION_ID || 'NARUTO-MD-WA-BOT;;;=>',
     PREFIXE: process.env.PREFIX || "+",
-    OWNER_NAME: process.env.OWNER_NAME || "France King",
-    NUMERO_OWNER : process.env.OWNER_NUMBER || "254757835036", 
+    OWNER_NAME: process.env.OWNER_NAME || "BRYAN TECH",
+    NUMERO_OWNER : process.env.OWNER_NUMBER || "233263176982", 
              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
 AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "yes",
