@@ -23,14 +23,14 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
       const respuestaAPI = data.data;
       conn.reply(m.chat, respuestaAPI, m);
     } else {
-      throw '*Could not get a valid answer, sorry 😅.*';
+      throw '*Could not get a valid answer, sorry 🥲.*';
     }
   } catch (error) {
-    throw `*Oops, an API error occurred. Please try again later 😅.*`;
+    throw `*Oops, an API error occurred. Please try again later 🥲.*`;
   }
 };
 
-handler.command = /^gpt5$/i;
+handler.command = /^Naruto$/i;
 handler.tags = ['study'];
 
 export default handler;
