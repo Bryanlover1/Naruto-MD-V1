@@ -57,6 +57,72 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
+### DEVELOPER:
+**GET In Touch with The Owner**
+- <a href="https://instagram.com/france.king1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
+OR 
+- <a href="https://wa.me/254742063632"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+### TO JOIN OUR SUPPORT GROUP 
+
+
+*CLICK THIS 👇 BUTTON* <p align="centre">
+  <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+  
+
+   
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### TO JOIN OUR WHATSAPP CHANNEL 
+
+*CLICK THIS 👇 BUTTON* <p align="centre">
+  <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
+   <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+   
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ☉Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/Naruto-MD-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
