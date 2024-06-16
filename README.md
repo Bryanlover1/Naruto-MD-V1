@@ -59,9 +59,9 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
 
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- <a href="https://instagram.com/france.king1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
+- <a href="https://instagram.com/bryan_lover1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
 OR 
-- <a href="https://wa.me/254742063632"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
+- <a href="https://wa.me/233263176982"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
@@ -72,7 +72,6 @@ OR
 *CLICK THIS 👇 BUTTON* <p align="centre">
   <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
 
    
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -87,46 +86,7 @@ OR
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ☉Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/Naruto-MD-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
-
 
