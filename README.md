@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD-V1) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`QR SCANNER 2`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`PAIRING CODE 2`](https://madara-md-8b42001e1b3f.herokuapp.com/)***
+***2.`Get Session ID` by [`SCANING QR 1`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`QR SCANNER 2`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`PAIRING CODE 2`](https://sessionid1-e846e707a329.herokuapp.com/)***
 
 ## WE WILL BE USING WASI TECH PAIRING CODE FOR NOW. I WILL FIX IT LATER
 
@@ -47,15 +47,15 @@
 
 
 ### CONTRIBUTIONS 
--Contributions to Madara-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+-Contributions to Naruto-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- <a href="https://instagram.com/Bryant_Tech.1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-gold?style=for-the-badge&logo=Instagram"></a>
+- <a href="https://instagram.com/Bryan_lover1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-gold?style=for-the-badge&logo=Instagram"></a>
 OR 
-- <a href="https://wa.me/233530729233"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
+- <a href="https://wa.me/233263176982"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
