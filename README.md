@@ -85,7 +85,7 @@ OR
 - [***King David***](https://github.com/Kingdavid3333) For several Cmds & Ideas.
 - [***Unknownkid***](https://github.com/Whizbot1) For Genaral Help and Brotherhood. 
 - [***France king***](https://github.com/Franceking1) For Code encryption. 
-- [***Bryan tech***](https://github.com/Bryanlover1) For Providing a Base of **MADARA-MD**
+- [***Bryant tech***](https://github.com/Elsa2090) For Providing a Base of **_NARUTO-MD_**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
@@ -95,20 +95,20 @@ OR
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
-[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsa2090&show_icons=true&theme=radical)](https://github.com/Elsa2090)
+[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanlover1&show_icons=true&theme=radical)](https://github.com/Bryanlover1)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## License
 
-The *MADARA-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *NARUTO-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *MADARA-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by BRYANT TECH 
+Enjoy the diverse features of the *NARUTO-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by BRYAN TECH 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## `OWNER` 
-<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="250" height="250" alt="BRYANT TECH"/></a>
+<a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1" width="250" height="250" alt="BRYANT TECH"/></a>
   
