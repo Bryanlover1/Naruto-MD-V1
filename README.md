@@ -53,7 +53,7 @@
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- <a href="https://instagram.com/Bryan_lover1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-silver?style=for-the-badge&logo=Instagram"></a>
+- <a href="https://instagram.com/Bryan_lover1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-diamond?style=for-the-badge&logo=Instagram"></a>
 OR 
 - <a href="https://wa.me/233263176982"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
