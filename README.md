@@ -46,8 +46,8 @@ If you find NARUTO-MD helpful, consider giving it a ⭐ to show your appreciatio
 
 ❏GET SESSION ID 
 (SCAN-QR)           
- [`SCANING QR`](https://chemms-3143941ace82.herokuapp.com/)
- OR [`PAIRING CODE`](https://chemms-3143941ace82.herokuapp.com/)***
+ [`SCANING QR`](https://sessionid1-e846e707a329.herokuapp.com/)
+ OR [`PAIRING CODE`](https://sessionid1-e846e707a329.herokuapp.com/)***
 
 
 ## 👻`Deployments`👻
