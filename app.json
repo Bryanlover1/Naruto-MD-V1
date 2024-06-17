@@ -41,15 +41,15 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"MADARA-MD",
-      "required":false
+      "value":"NARUTO-MD",
+      "required": true
 
     } ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/6725b315e245e7ecfa22f.mp4",
-      "required":false
+      "value":"https://telegra.ph/file/049d47fb85ea29426c644.mp4",
+      "required": true 
 
      },
     "PUBLIC_MODE":
@@ -61,11 +61,11 @@
         ,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key ",
-     "required" :true
+     "required" : true
     },
    "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :false
+     "required" : true 
     }  
           ,
     "SESSION_ID":
@@ -80,14 +80,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "Bryant tech"
+    "value": "Bryan tech"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":false,
-    "value": "233530729233"
+    "required":true,
+    "value": "233263176982"
   },
     "WARN_COUNT":
   {
