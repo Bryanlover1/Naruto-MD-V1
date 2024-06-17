@@ -39,7 +39,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Elsa2090/Madara-md"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/Naruto-MD-V1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -64,7 +64,7 @@ OR
 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://chat.whatsapp.com/DOko0OMbzD3DPZmIADnT95">
+  <a href="https://chat.whatsapp.com/DVpRj3FVHFQDYxploAvjI5">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
@@ -90,7 +90,7 @@ OR
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=150)](https://github.com/Elsa2090)
+[![github](https://github.com/Bryanlover1)](https://github.com/Bryanlover1)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
