@@ -1,26 +1,26 @@
-<h1 align="center"> 𝚻𝚮𝚵 𝚳𝚫𝐃𝚫𝚪𝚫 𝚳𝐔𝐋𝚻𝚰 𝐃𝚵𝛁𝚰𝐂𝚵  </h1>
+<h1 align="center"> 𝚻𝚮𝚵 𝚴𝚫𝚪𝐔𝚻𝚯 𝚳𝐔𝐋𝚻𝚰 𝐃𝚵𝛁𝚰𝐂𝚵  </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+MADARA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYANT+TECH;WELCOME+TO+MY+WORLD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+NARUTO-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYAN+TECH;WELCOME+TO+MY+WORLD" alt="Typing SVG" /></a>
   </p>
-    <img alt="Madara-MD" width="700" height="300" src="https://telegra.ph/file/55aa3542cb62696db1e43.png">
+    <img alt="NARUTO-MD" width="700" height="300" src="https://telegra.ph/file/c35304340a3f685c14995.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/BryantXtech1/Madara-md"><img title="Author" src="https://img.shields.io/badge/MADARA_MD-gold?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/MADARA_MD-gold?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/BryantXtech1/Madara-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Elsa2090?label=Followers&style=social"></a>
-<a href="https://github.com/Elsa2090/Madara-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Elsa2090/Madara-md?&style=social"></a>
-<a href="https://github.com/Elsa2090/Madara-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Elsa2090/Madara-md?style=social"></a>
-<a href="https://github.com/Elsa2090/Madara-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Elsa2090/Madara-md?label=Watching&style=social"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD-V1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Bryanlover1?label=Followers&style=social"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD-V1/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Bryanlover1/Naruto-MD-V1?&style=social"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bryanlover1/Naruto-MD-V1?style=social"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Bryanlover1/Naruto-MD-V1?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Elsa2090/Madara-md) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD-V1) It***
 
 ***2.`Get Session ID` by [`SCANING QR 1`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`QR SCANNER 2`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`PAIRING CODE 2`](https://madara-md-8b42001e1b3f.herokuapp.com/)***
 
