@@ -89,6 +89,9 @@ OR
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
+<br/> <div align="center">
+[![github](https://github.com/github.png?size=150)](https://github.com/Bryanlover1)
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -106,3 +109,7 @@ Enjoy the diverse features of the *NARUTO-MD*  to enhance your Whatsapp more enj
 ☣Powered by BRYAN TECH 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## `OWNER` 
+<a href="https://github.com/Elsa2090"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="BRYAN TECH"/></a>
+
+  
