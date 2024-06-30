@@ -22,9 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD-V1) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://madarabotmdv2-4b573e7e1d9a.herokuapp.com/) OR [`QR SCANNER 2`](https://madarabotmdv2-4b573e7e1d9a.herokuapp.com/) OR [`PAIRING CODE 2`](https://madarabotmdv2-4b573e7e1d9a.herokuapp.com/)***
-
-## WE WILL BE USING WASI TECH PAIRING CODE FOR NOW. I WILL FIX IT LATER
+***2.`Get Session ID` by [`SCANING QR`](https://5ff03986-29a1-4ee2-9562-32db1a78c4f8-00-2mcg4oyou65t5.janeway.replit.dev/qr)OR [`PAIRING CODE`](https://c9452bc3-a909-44d9-8d79-df37290924a1-00-1k07ddzipxbyy.spock.replit.dev/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
